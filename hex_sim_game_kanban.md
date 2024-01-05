@@ -9,6 +9,16 @@ kanban-plugin: basic
 - [ ] Implement a hex grid in bevy/rust
 
 
+## In Progress
+
+- [ ] Implement a hex struct
+
+
+## Done
+
+**Complete**
+
+
 
 
 %% kanban:settings

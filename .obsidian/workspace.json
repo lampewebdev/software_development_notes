@@ -11,9 +11,11 @@
             "id": "2c567f77c4b62b52",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "hex_sim_game_kanban.md"
+                "file": "hex_sim_game/Hex Grid notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hex_sim_game_kanban.md",
+                "file": "hex_sim_game/Hex Grid notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hex_sim_game_kanban.md",
+                "file": "hex_sim_game/Hex Grid notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hex_sim_game_kanban.md"
+                "file": "hex_sim_game/Hex Grid notes.md"
               }
             }
           }
@@ -145,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b13e066f8cc0daf2",
+  "active": "2c567f77c4b62b52",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-05 20.53.27.excalidraw.md",
     "hex_sim_game_kanban.md",
+    "hex_sim_game/Hex Grid notes.md",
+    "hex_sim_game",
+    "Excalidraw/Drawing 2024-01-05 20.53.27.excalidraw.md",
     "Excalidraw"
   ]
 }
