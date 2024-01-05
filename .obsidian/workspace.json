@@ -11,8 +11,10 @@
             "id": "2c567f77c4b62b52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "hex_sim_game_kanban.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hex_sim_game_kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hex_sim_game_kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-05 20.53.27.excalidraw.md"
+                "file": "hex_sim_game_kanban.md"
               }
             }
           }
@@ -144,6 +148,7 @@
   "active": "b13e066f8cc0daf2",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-01-05 20.53.27.excalidraw.md",
+    "hex_sim_game_kanban.md",
     "Excalidraw"
   ]
 }
